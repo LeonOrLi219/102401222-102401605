@@ -37,9 +37,9 @@ markdown
 
 ### 运行单元测试
 npm install
+
 npm test
 
-text
 
 ## 分工
 - A：`css/`、`js/storage.js`、`js/index.js`、`index.html`、`detail.html`、`js/detail.js`、`tests/storage.test.js`
