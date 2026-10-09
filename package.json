@@ -1,0 +1,15 @@
+{
+  "name": "campus-lost-found",
+  "version": "1.0.0",
+  "description": "校园失物招领系统",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jest-environment-jsdom": "^29.0.0"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  }
+}
